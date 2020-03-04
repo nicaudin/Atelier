@@ -34,11 +34,11 @@
         <div class="usefull-link">
         <h6 class="text-white">Liens Utils</h6>
           <ul>
-            <li><a href="listing-01.html"><i class="fa fa-angle-double-right"></i> Vente de véhicules </a></li>
-            <li><a href="purchase.html"><i class="fa fa-angle-double-right"></i> Achat de véhicules</a></li>
-            <li><a href="mecanic.html"><i class="fa fa-angle-double-right"></i> Préstations liées à la mécanique</a></li>
-            <li><a href="purchase.html"><i class="fa fa-angle-double-right"></i> Devis pour achat de véhicule </a></li>
-            <li><a href="cost-estimate.html"><i class="fa fa-angle-double-right"></i> Devis pour réparation de véhicule</a></li>
+            <li><a href="listing-01.php"><i class="fa fa-angle-double-right"></i> Vente de véhicules </a></li>
+            <li><a href="purchase.php"><i class="fa fa-angle-double-right"></i> Achat de véhicules</a></li>
+            <li><a href="mecanic.php"><i class="fa fa-angle-double-right"></i> Préstations liées à la mécanique</a></li>
+            <li><a href="purchase.php"><i class="fa fa-angle-double-right"></i> Devis pour achat de véhicule </a></li>
+            <li><a href="cost-estimate.php"><i class="fa fa-angle-double-right"></i> Devis pour réparation de véhicule</a></li>
           </ul>
         </div> 
       </div>
@@ -50,7 +50,7 @@
               <img class="img-fluid" src="images/car/01.jpg" alt=""> 
             </div>
             <div class="recent-post-info">
-                <a href="events.html">Salon de l'auto</a>
+                <a href="events.php">Salon de l'auto</a>
                 <span class="post-date"><i class="fa fa-calendar"></i>10 Septembre 2017</span>
             </div>
          </div>
@@ -59,7 +59,7 @@
               <img class="img-fluid" src="images/car/02.jpg" alt=""> 
             </div>
             <div class="recent-post-info">
-                <a href="events.html">Classiques des 80's </a>
+                <a href="events.php">Classiques des 80's </a>
                 <span class="post-date"><i class="fa fa-calendar"></i>10 Septembre 2017</span>
             </div>
          </div>
@@ -68,7 +68,7 @@
               <img class="img-fluid" src="images/car/03.jpg" alt=""> 
             </div>
             <div class="recent-post-info">
-                <a href="events.html">"Avoir un joint de culasse?" </a>
+                <a href="events.php">"Avoir un joint de culasse?" </a>
                 <span class="post-date"><i class="fa fa-calendar"></i>10 Septembre 2017</span>
             </div>
          </div>
@@ -95,8 +95,8 @@
       </div>
       <div class="col-lg-6 col-md-12">
         <ul class="list-inline text-lg-right text-center">
-          <li><a href="terms-and-conditions.html"> Conditions générales </a> |</li> 
-          <li><a href="contact.html"> Nous contacter </a></li>
+          <li><a href="terms-and-conditions.php"> Conditions générales </a> |</li> 
+          <li><a href="contact.php"> Nous contacter </a></li>
         </ul>
       </div>
      </div>

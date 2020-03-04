@@ -1,3 +1,9 @@
+  <?php 
+
+require_once('init.php');
+
+ ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -56,6 +62,7 @@
 </div>
 
 <!--=================================
+
   loading -->
 
 
@@ -122,6 +129,8 @@
             </li>
             <li><a href="opinion.php">Avis </a> 
             </li>
+             <li><a href="connexion.php"> Connexion back office </a>
+            </li>
             </ul>
            </div>
           </div>
@@ -130,4 +139,5 @@
        </nav>
       <!-- menu end -->
      </div>
+
     </header>
